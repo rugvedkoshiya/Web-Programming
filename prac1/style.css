@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.center {
+    display: flex;
+    flex-direction: row;
+}
+
+.image-container img {
+    width: 500px;
+}
+
+.details-container {
+    margin: 100px 0 0 0;
+    width: 50%;
+}
+
+.title,
+.sub-title {
+    display: inline;
+}
+
+.price {
+    color: #b73717;
+}
+table {
+    border-style: solid;
+}
+
+hr {
+    margin: 10px 0;
+}
+.about-title {
+    font-weight: 600;
+}
+
+form {
+    margin: 0 auto;
+    margin: 10px;
+}
