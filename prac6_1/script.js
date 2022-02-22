@@ -4,10 +4,6 @@ function validateForm() {
     const mobile = document.getElementById("mobile");
     const validationError = document.getElementById("validationError");
 
-    console.log(password.value);
-    console.log(mobile.value);
-    console.log(validationError);
-
     nameBool = validateName(name.value);
     passwordBool = validatePassword(password.value);
     mobileBool = validateMobile(mobile.value);
@@ -28,8 +24,6 @@ function validateForm() {
         validationError.style.display = "none";
         return true;
     }
-
-
 }
 
 function validatePassword(password) {
