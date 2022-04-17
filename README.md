@@ -47,3 +47,11 @@
 ## Practical 6 - 5
 - Write an HTML page that contains a selection box with a list of 5 countries. When the user selects a country, its capital should be printed next to the list.
 - [See Practical 6 - 5](./prac6_5/)
+
+## Practical 7 - 1
+- Create an image viewer with the following buttons. Next, Previous, First, Last. 
+- [See Practical 7 - 1](./prac7_1/)
+
+## Practical 7 - 2
+- Write a program that changes the Size of an image when you mouse over the Image and when mouse out image will be in original size.
+- [See Practical 7 - 2](./prac7_2/)
