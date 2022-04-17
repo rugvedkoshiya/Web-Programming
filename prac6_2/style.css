@@ -15,13 +15,13 @@
 .buttons {
     display: grid;
     border-bottom: 1px solid #999;
-    border-left: 1px solid#999;
+    border-left: 1px solid #999;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .buttons > div {
     border-top: 1px solid #999;
-    border-right: 1px solid#999;
+    border-right: 1px solid #999;
 }
 
 .button {
