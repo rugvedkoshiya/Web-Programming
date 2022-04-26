@@ -55,3 +55,23 @@
 ## Practical 7 - 2
 - Write a program that changes the Size of an image when you mouse over the Image and when mouse out image will be in original size.
 - [See Practical 7 - 2](./prac7_2/)
+
+## Practical 7 - 3
+- Image when you mouse over the Image and when mouse out image will be in original size.
+- [See Practical 7 - 3](./prac7_3/)
+
+## Practical 8 - 1
+- Write a PHP program that demonstrates Use of Get and Post.
+- [See Practical 8 - 1](./prac8_1/)
+
+## Practical 8 - 2
+- Write a PHP program that demonstrates use of session.
+- [See Practical 8 - 2](./prac8_2/)
+
+## Practical 8 - 3
+- Make a login form having following fields: Username, Password, Remember Me and submit button.
+- [See Practical 8 - 3](./prac8_3/)
+
+## Practical 9
+- Create a Student Registration form, add the data into it, submit it to the database, display the data in the same page, update the data and delete it by connecting it to MySQL database using PHP.
+- [See Practical 9](./prac9/)
