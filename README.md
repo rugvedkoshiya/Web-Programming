@@ -75,3 +75,12 @@
 ## Practical 9
 - Create a Student Registration form, add the data into it, submit it to the database, display the data in the same page, update the data and delete it by connecting it to MySQL database using PHP.
 - [See Practical 9](./prac9/)
+
+## Practical 10
+- Create a Simple XMLHttpRequest, and retrieve data from TXT file.
+- Create a XMLHttpRequest with callback function and retrieve data from TXT file.
+- [See Practical 10](./prac10/)
+
+## Practical 11
+- Write a jQuery program that demonstrates the use of jQuery Selector and Events.
+- [See Practical 11](./prac11/)
